@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="channel_name">myChannel</string>
+    <string name="channel_description">myDescription</string>
+    <string name="test">test</string>
+    <string name="term">term</string>
+    <string name="term_name">Term Name:</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="save">Save</string>
+    <string name="courses_in_term">Courses In Term</string>
+    <string name="update_course_instructor">Update Course Instructor</string>
+    <string name="maker_monster_com">maker@monster.com</string>
+    <string name="_000_010_1818">(000) 010-1818</string>
+    <string name="dr_frankenstein">Dr. Frankenstein</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="name">Name:</string>
+    <string name="assessments">Assessments</string>
+    <string name="save_course">Save Course</string>
+    <string name="notes">Notes:</string>
+    <string name="end_datee">End Date:</string>
+    <string name="status">Status:</string>
+    <string name="ps101">PS101</string>
+    <string name="course_name">Course Name:</string>
+    <string name="psych_101">Psych 101</string>
+    <string name="start_datee">Start Date:</string>
+    <string name="_10_01_2022">10/01/2022</string>
+    <string name="_08_01_2022">08/01/2022</string>
+    <string name="add_instructor">Add Instructor</string>
+    <string name="add_assessment">Add Assessment</string>
+    <string name="instructor">Instructor</string>
+    <string name="swipe_to_delete">Swipe to delete</string>
+    <string name="saveee">Save</string>
+    <string name="set_end_reminder">Set End Reminder</string>
+    <string name="set_start_reminder">Set Start Reminder</string>
+    <string name="set_start_alert">Set Start Alert</string>
+    <string name="set_end_alert">Set End Alert</string>
+    <string name="share">Share</string>
+    <string name="mobile_app_project">Mobile App Project</string>
+    <string name="type">Type:</string>
+    <string name="assessment">Assessment:</string>
+    <string name="_08_01_2022a">08/01/2022</string>
+    <string name="end_datea">End Date:</string>
+    <string name="start_datea">Start Date:</string>
+    <string name="_08_10_2022b">08/10/2022</string>
+    <string name="savea">Save</string>
+    <string name="update_assessment">Update Assessments</string>
+
+    <string-array name="assessment_type_array">
+        <item>Performance</item>
+        <item>Objective</item>
+    </string-array>
+
+    <string-array name="course_progress_array">
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Plan To Take</item>
+    </string-array>
+
+</resources>
